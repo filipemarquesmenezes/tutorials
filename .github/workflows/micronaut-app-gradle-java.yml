@@ -1,4 +1,4 @@
-name: Build spring-inject-map-from-yml
+name: Build micronaut-app-gradle-java
 
 defaults:
   run:
