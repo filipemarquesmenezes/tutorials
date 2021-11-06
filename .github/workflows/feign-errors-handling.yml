@@ -1,8 +1,8 @@
-name: Build feign-erros-handling
+name: Build feign-errors-handling
 
 defaults:
   run:
-    working-directory: feign-erros-handling
+    working-directory: feign-errors-handling
 
 on:
   push:
